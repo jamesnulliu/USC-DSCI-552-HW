@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ---- DSCI 552 ----
+# PDFs (homework handouts and exported submissions)
+*.pdf
+
+# Datasets
+data/
