@@ -8,6 +8,7 @@ instructor Mohammad Reza Rajati.
 ```
 .
 ├── notebook/        # Liu_Yanchen_HW<i>.ipynb — one notebook per assignment
+├── midterm/         # Liu_Yanchen_Midterm.ipynb — midterm programming question
 ├── data/            # datasets + assignment PDFs (gitignored, not committed)
 └── requirements.txt # required by the course submission rules
 ```
