@@ -53,3 +53,13 @@ for every assignment in this repository.
 - Once homework is uploaded, there is no need to follow up with TAs to confirm submission. GitHub records
   a timestamp; as long as it is within the deadline, it is submitted.
 - **Always submit a copy of the `.ipynb` file in which every cell has been executed** (outputs saved).
+
+## Repository conventions (this repo, not the TA's rules)
+
+1. **Never commit the USC ID.** Rule 6 asks for it in the first cell, but it must not appear in any
+   committed file, notebook output or commit message. Committed notebooks carry only Name and GitHub
+   Username in the first cell; leave the `USC ID:` line out (the HW5–8 templates still have an empty one).
+2. **Commit identity.** Commit as `jamesnulliu <jamesnulliu@gmail.com>` only. Do not add a
+   `Co-Authored-By` trailer or any other Claude attribution to commit messages or PR descriptions.
+   `.claude/settings.json` turns Claude Code's attribution off; this rule applies even if that setting
+   is missing.

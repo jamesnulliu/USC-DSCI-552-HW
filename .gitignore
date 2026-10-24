@@ -219,6 +219,7 @@ __marimo__/
 
 # ---- DSCI 552 ----
 # PDFs (homework handouts and exported submissions)
+/materials
 *.pdf
 
 # Datasets
