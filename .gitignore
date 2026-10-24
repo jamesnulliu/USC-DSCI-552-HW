@@ -221,6 +221,7 @@ __marimo__/
 # PDFs (homework handouts and exported submissions)
 /materials
 *.pdf
+!/midterm/*.pdf
 
 # Datasets
 data/
